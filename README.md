@@ -1,5 +1,5 @@
 # Mock Testing Example Go
-- `/stack` logic
+- `/stack` logic & test files
 - `/mocks` mocks generated with go mockgen
 
 ## Autho
